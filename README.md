@@ -1,2 +1,2 @@
 # shell_script
-sehll script test backup 
+shell script test backup 
